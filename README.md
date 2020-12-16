@@ -11,3 +11,7 @@ Download shape_predictor_68_face_landmarks
 
 upperbody文件夹下为半身检测
 
+
+beauty.py文件直接忽略！
+beauty.py文件直接忽略！
+beauty.py文件直接忽略！
