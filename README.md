@@ -10,7 +10,3 @@ thin_face文件夹下为瘦脸 需要下载训练好的人脸检测模型
 
 
 upperbody文件夹下为半身检测
-
-
-### beauty.py文件直接忽略！
-### beauty.py文件直接忽略！
